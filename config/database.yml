@@ -3,13 +3,13 @@ development:
   encoding: unicode
   database: carma_development
   pool: 5
-  username: jakekaad
-  password: Sophie414
+  username: JakeKaad
+  password: new_password
 
 test:
   adapter: postgresql
   encoding: unicode
   database: carma_test
   pool: 5
-  username: jakekaad
-  password: Sophie414
+  username: JakeKaad
+  password: new_password
